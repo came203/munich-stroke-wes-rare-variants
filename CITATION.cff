@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Munich stroke WES rare-variant analysis pipeline"
+version: "1.0.0"
+date-released: "2026-11-25"
+authors:
+  - family-names: "Malik"
+    given-names: "Rainer"
+    affiliation: "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Munich"
+  - family-names: "Dichgans"
+    given-names: "Martin"
+    affiliation: "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Munich"
+license: GPL-3.0

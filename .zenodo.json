@@ -1,0 +1,12 @@
+{
+  "title": "Munich stroke WES rare-variant analysis pipeline",
+  "upload_type": "software",
+  "description": "Analysis code for the gene-based rare-variant analysis (RV-EXCALIBER) of 1,535 PRS-selected ischemic stroke exomes and the evaluation of a rare-variant risk score in UK Biobank. Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) - Project number 497256604.",
+  "creators": [
+    {"name": "Malik, Rainer", "affiliation": "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Munich"},
+    {"name": "Dichgans, Martin", "affiliation": "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Munich"}
+  ],
+  "license": "GPL-3.0-only",
+  "keywords": ["ischemic stroke", "whole-exome sequencing", "rare variants", "RV-EXCALIBER", "UK Biobank", "polygenic risk"],
+  "access_right": "open"
+}

@@ -1,0 +1,9 @@
+*.tsv
+*.tsv.gz
+*.raw
+*.fam
+*.bim
+*.bed
+*.pgen
+*.vcf*
+*.log
